@@ -1,1 +1,0 @@
-DROP LOGIN Janet
